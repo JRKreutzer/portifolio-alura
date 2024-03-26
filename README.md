@@ -15,7 +15,13 @@ Atividade realizada durante o curso da Alura de HTML e CSS, onde aprendi a criar
 - Conhecer o Flexbox e aplicar técnicas para posicionar seus elementos de forma prática;
 - Saber como estilizar textos, fontes e ícones;
 - Entender como posicionar os elementos de uma página com CSS;
-- Descobrir como aplicar efeitos de estilização alterando cores, arredondamentos e importar fontes para seu projeto.
+- Descobrir como aplicar efeitos de estilização alterando cores, arredondamentos e importar fontes para seu projeto;
+- Descobrir como utilizar variáveis CSS para manter seu código sustentável e limpo;
+- Trabalhar com mais de uma página HTML no mesmo projeto;
+- Conhecer as pseudo classes com exemplos reais e práticos;
+- Saber como tornar seu site responsivo para diferentes telas;
+- Descubrir o que é como usar a Media Query em seus projetos;
+- Entender a diferença de medidas absolutas e relativas.
 
 ## Ferramentas utilizadas:
 
